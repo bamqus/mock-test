@@ -15,3 +15,4 @@ Są w niej informacje o busach i tranwajach.
 # Zdjęcia
 ![Krakow tramwaj](https://bi.im-g.pl/im/52/56/19/z26566994AMP,Tramwaj-Lajkonik-bez-pantografu.jpg)
 ![autobus](https://plikimpi.krakow.pl/zalacznik/326254/4.jpg)
+![Local image](IMG/l.jpg)
